@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(234, 61, 110);
+    background-color: black;
+    background-origin: border-box;
+    text-align: center;
+    font-size: 60px;
+}
+
+.paragrafo {
+    text-indent: 20px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    color: white;
+}
+
+h2 {
+    text-indent: 20px;
+    font-size: 50px;
+    color: rgb(234, 61, 110);
+}
+
+#img__fiap {
+    width: 1000px;
+    height: 400px;
+    display: block;
+    margin: 30px auto;
+}
+
+.links__cursos {
+    font-size: 25px;
+    list-style-position: inside;
+    text-indent: 60px;
+    font-weight: bold;
+    color: rgb(234, 61, 110);
+}
+
+.link1 {
+    color: #3172ab;
+    text-decoration: none;
+}
+
+.link2 {
+    color: #e021bb;
+    text-decoration: none;
+}
+
+.link3 {
+    color: #ca43fb;
+    text-decoration: none;
+}
+
+.link4 {
+    color: #0ed1b5;
+    text-decoration: none;
+}
+
+.link5 {
+    color: #e8b90a;
+    text-decoration: none;
+}
+
+.link6 {
+    color: #940000;
+    text-decoration: none;
+}
+
+.link7 {
+    color: #504a47;
+    text-decoration: none;
+}
+
+.link8 {
+    color: #f83406;
+    text-decoration: none;
+}
+
+.link9 {
+    color: #026859;
+    text-decoration: none;
+}
+
+.link10 {
+    color: #0a8ef6;
+    text-decoration: none;
+}
+
+.link11 {
+    color: #45590f;
+    text-decoration: none;
+}
+
+#img__anuncio {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+#texto__anuncio {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin: 0px 30px 50px 30px;
+    color: rgb(110, 110, 219);
+}
